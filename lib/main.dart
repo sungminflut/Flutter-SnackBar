@@ -31,7 +31,7 @@ class MyPage extends StatelessWidget {
               content: Text('Like a new Snack bar!'),
               duration: Duration(seconds: 5),
               action: SnackBarAction(
-                label: 'Undo2',
+                label: 'Undo',
                 onPressed: () {
                   Navigator.push(
                       context,
