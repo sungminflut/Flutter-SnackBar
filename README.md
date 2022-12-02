@@ -1,4 +1,4 @@
-# snackbar
+# SnackBar
 
 A new Flutter project.
 
